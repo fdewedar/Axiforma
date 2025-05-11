@@ -1,239 +1,239 @@
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-SemiBold.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBold.eot');
     src: local('Axiforma SemiBold'), local('Axiforma-SemiBold'),
-        url('Axiforma-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-SemiBold.woff2') format('woff2'),
-        url('Axiforma-SemiBold.woff') format('woff'),
-        url('Axiforma-SemiBold.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBold.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBold.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Thin.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Thin.eot');
     src: local('Axiforma Thin'), local('Axiforma-Thin'),
-        url('Axiforma-Thin.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Thin.woff2') format('woff2'),
-        url('Axiforma-Thin.woff') format('woff'),
-        url('Axiforma-Thin.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Thin.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Thin.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Thin.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Regular.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Regular.eot');
     src: local('Axiforma Regular'), local('Axiforma-Regular'),
-        url('Axiforma-Regular.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Regular.woff2') format('woff2'),
-        url('Axiforma-Regular.woff') format('woff'),
-        url('Axiforma-Regular.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Regular.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Regular.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-MediumItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-MediumItalic.eot');
     src: local('Axiforma Medium Italic'), local('Axiforma-MediumItalic'),
-        url('Axiforma-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-MediumItalic.woff2') format('woff2'),
-        url('Axiforma-MediumItalic.woff') format('woff'),
-        url('Axiforma-MediumItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-MediumItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-MediumItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Black.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Black.eot');
     src: local('Axiforma Black'), local('Axiforma-Black'),
-        url('Axiforma-Black.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Black.woff2') format('woff2'),
-        url('Axiforma-Black.woff') format('woff'),
-        url('Axiforma-Black.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Black.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Black.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Black.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-BlackItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BlackItalic.eot');
     src: local('Axiforma Black Italic'), local('Axiforma-BlackItalic'),
-        url('Axiforma-BlackItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-BlackItalic.woff2') format('woff2'),
-        url('Axiforma-BlackItalic.woff') format('woff'),
-        url('Axiforma-BlackItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BlackItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BlackItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Heavy.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Heavy.eot');
     src: local('Axiforma Heavy'), local('Axiforma-Heavy'),
-        url('Axiforma-Heavy.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Heavy.woff2') format('woff2'),
-        url('Axiforma-Heavy.woff') format('woff'),
-        url('Axiforma-Heavy.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Heavy.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Heavy.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Heavy.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Medium.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Medium.eot');
     src: local('Axiforma Medium'), local('Axiforma-Medium'),
-        url('Axiforma-Medium.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Medium.woff2') format('woff2'),
-        url('Axiforma-Medium.woff') format('woff'),
-        url('Axiforma-Medium.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Medium.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Medium.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Medium.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-BoldItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BoldItalic.eot');
     src: local('Axiforma Bold Italic'), local('Axiforma-BoldItalic'),
-        url('Axiforma-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-BoldItalic.woff2') format('woff2'),
-        url('Axiforma-BoldItalic.woff') format('woff'),
-        url('Axiforma-BoldItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BoldItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BoldItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-ExtraBoldItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBoldItalic.eot');
     src: local('Axiforma ExtraBold Italic'), local('Axiforma-ExtraBoldItalic'),
-        url('Axiforma-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-ExtraBoldItalic.woff2') format('woff2'),
-        url('Axiforma-ExtraBoldItalic.woff') format('woff'),
-        url('Axiforma-ExtraBoldItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBoldItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBoldItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBoldItalic.ttf') format('truetype');
     font-weight: 800;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Book.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Book.eot');
     src: local('Axiforma Book'), local('Axiforma-Book'),
-        url('Axiforma-Book.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Book.woff2') format('woff2'),
-        url('Axiforma-Book.woff') format('woff'),
-        url('Axiforma-Book.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Book.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Book.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Book.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Book.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Light.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Light.eot');
     src: local('Axiforma Light'), local('Axiforma-Light'),
-        url('Axiforma-Light.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Light.woff2') format('woff2'),
-        url('Axiforma-Light.woff') format('woff'),
-        url('Axiforma-Light.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Light.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Light.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-ThinItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ThinItalic.eot');
     src: local('Axiforma Thin Italic'), local('Axiforma-ThinItalic'),
-        url('Axiforma-ThinItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-ThinItalic.woff2') format('woff2'),
-        url('Axiforma-ThinItalic.woff') format('woff'),
-        url('Axiforma-ThinItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ThinItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ThinItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ThinItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Bold.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Bold.eot');
     src: local('Axiforma Bold'), local('Axiforma-Bold'),
-        url('Axiforma-Bold.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Bold.woff2') format('woff2'),
-        url('Axiforma-Bold.woff') format('woff'),
-        url('Axiforma-Bold.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Bold.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Bold.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-LightItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-LightItalic.eot');
     src: local('Axiforma Light Italic'), local('Axiforma-LightItalic'),
-        url('Axiforma-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-LightItalic.woff2') format('woff2'),
-        url('Axiforma-LightItalic.woff') format('woff'),
-        url('Axiforma-LightItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-LightItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-LightItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-SemiBoldItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBoldItalic.eot');
     src: local('Axiforma SemiBold Italic'), local('Axiforma-SemiBoldItalic'),
-        url('Axiforma-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-SemiBoldItalic.woff2') format('woff2'),
-        url('Axiforma-SemiBoldItalic.woff') format('woff'),
-        url('Axiforma-SemiBoldItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBoldItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBoldItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-SemiBoldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-Italic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Italic.eot');
     src: local('Axiforma Italic'), local('Axiforma-Italic'),
-        url('Axiforma-Italic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-Italic.woff2') format('woff2'),
-        url('Axiforma-Italic.woff') format('woff'),
-        url('Axiforma-Italic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Italic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Italic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Italic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-BookItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BookItalic.eot');
     src: local('Axiforma Book Italic'), local('Axiforma-BookItalic'),
-        url('Axiforma-BookItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-BookItalic.woff2') format('woff2'),
-        url('Axiforma-BookItalic.woff') format('woff'),
-        url('Axiforma-BookItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BookItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BookItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-BookItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-ExtraBold.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBold.eot');
     src: local('Axiforma ExtraBold'), local('Axiforma-ExtraBold'),
-        url('Axiforma-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-ExtraBold.woff2') format('woff2'),
-        url('Axiforma-ExtraBold.woff') format('woff'),
-        url('Axiforma-ExtraBold.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBold.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBold.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-ExtraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Axiforma';
-    src: url('Axiforma-HeavyItalic.eot');
+    src: url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-HeavyItalic.eot');
     src: local('Axiforma Heavy Italic'), local('Axiforma-HeavyItalic'),
-        url('Axiforma-HeavyItalic.eot?#iefix') format('embedded-opentype'),
-        url('Axiforma-HeavyItalic.woff2') format('woff2'),
-        url('Axiforma-HeavyItalic.woff') format('woff'),
-        url('Axiforma-HeavyItalic.ttf') format('truetype');
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-HeavyItalic.woff2') format('woff2'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-HeavyItalic.woff') format('woff'),
+        url('https://github.com/fdewedar/Axiforma/raw/refs/heads/main/Axiforma-HeavyItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
